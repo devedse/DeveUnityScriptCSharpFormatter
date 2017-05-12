@@ -1,0 +1,1 @@
+call dotnet "%~dp0UnityScriptFixTool.dll"
